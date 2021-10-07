@@ -1,6 +1,6 @@
 # Foti Ceci Portfolio
 
-This is the source to my personal portfolio. Viewers can see my previous projects, skills, and more. 
+This is the source to my personal portfolio.
 Visit at: [www.foticeci.com](https://www.foticeci.com) 
 
 
@@ -20,5 +20,5 @@ Visit at: [www.foticeci.com](https://www.foticeci.com)
 ## Author
 
 - GitHub - [@Fotinh0](https://github.com/fotinh0)
-- Website - [@fotinh0](https://www.foticeci.com)
+- Website - [www.foticeci.com](https://www.foticeci.com) 
 - LinkedIn - [@Foti-Ceci](https://www.linkedin.com/in/foti-ceci/)
