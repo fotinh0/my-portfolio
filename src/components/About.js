@@ -31,7 +31,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./avataaars.svg"
+            src="./avatars.svg"
           />
         </div>
       </div>
