@@ -34,7 +34,8 @@ export default function Projects() {
                   <h1 className="title-font text-lg font-medium text-white mb-3">
                     {project.title}
                   </h1>
-                  <p className="leading-relaxed">{project.description}</p>
+                  <p className="leading-relaxed text-gray-400">{project.description}</p>
+                  <p className="leading-relaxed text-gray-200">{project.skills}</p>
                 </div>
               </div>
               <div className="relative flex-wrap m-5">
