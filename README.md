@@ -6,17 +6,26 @@ Visit at: [www.foticeci.com](https://www.foticeci.com)
 <!-- 
 ## Screenshot 
 [website screenshot]() -->
+
+
 ## Build Withs
+
 - React 
 - Tailwind
 
+
 ## Site Components:
+
 - Navbar
 - About
 - Projects
 - Skills
 - Contact
 
+
+## Useful Link 
+
+- [How to Build a Portfolio Website with React by Reed Barger](https://www.freecodecamp.org/news/build-portfolio-website-react/)
 ## Author
 
 - GitHub - [@Fotinh0](https://github.com/fotinh0)
