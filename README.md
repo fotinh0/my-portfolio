@@ -3,10 +3,10 @@
 This is the source to my personal portfolio.
 Visit at: [www.foticeci.com](https://www.foticeci.com) 
 
-
+<!-- 
 ## Screenshot 
-[website screenshot]()
-## Build With
+[website screenshot]() -->
+## Build Withs
 - React 
 - Tailwind
 
