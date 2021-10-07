@@ -8,7 +8,7 @@ Visit at: [www.foticeci.com](https://www.foticeci.com)
 [website screenshot]() -->
 
 
-## Build Withs
+## Built With
 
 - React 
 - Tailwind
