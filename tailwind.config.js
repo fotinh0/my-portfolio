@@ -2,6 +2,9 @@ module.exports = {
   purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
   theme: {
     extend: {
+      backgroundImage:{
+        'pattern' : "url('./argyle.png')"
+      },
       colors: {
         'malibu': {
           '50': '#f7fcff', 
