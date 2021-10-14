@@ -1,7 +1,5 @@
 import React from "react";
 
-// width="973.4614" height="587.02513"
-
 export default function About() {
   return (
     <section id="about">
