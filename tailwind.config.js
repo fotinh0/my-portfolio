@@ -3,7 +3,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage:{
-        'pattern' : "url('./argyle.png')"
+        'pattern' : "url('./inspiration-geometry.png')",
+        'stardust' : "url('./stardust.png')"
       },
       colors: {
         'malibu': {

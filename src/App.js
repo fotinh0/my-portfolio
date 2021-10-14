@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font bg-pattern">
+    <main className="text-gray-300 bg-gray-900 body-font bg-stardust">
       <Navbar />
       <About />
       <Projects />

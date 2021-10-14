@@ -4,7 +4,7 @@ import { projects } from "../data";
 
 export default function Projects() {
   return (
-    <section id="projects" className="text-gray-400 bg-gray-900 body-font">
+    <section id="projects" className="text-gray-300 bg-gray-900 body-font bg-stardust">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
@@ -12,7 +12,7 @@ export default function Projects() {
             Projects
           </h1>
           <p>
-            Web projects I have built using various skills and technologies ranging from front-end to back-end. <br className="hidden lg:inline-block"/>
+            Web projects I have built using various skills and technologies. <br className="hidden lg:inline-block"/>
             Visit my <a className="inline font-bold text-green-500 hover:text-malibu-700" href="https://github.com/fotinh0">GitHub</a> to view additional projects.
           </p>
         </div>
