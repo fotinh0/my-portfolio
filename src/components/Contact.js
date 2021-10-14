@@ -67,7 +67,7 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
           Let's Get In Touch
           </h2>
-          <p className="leading-relaxed mb-5">
+          <p className="leading-relaxed mb-5 text-lg">
           Are you interested in networking and collaborating? Feel free to send me a message!
           </p>
           <div className="relative mb-4">
