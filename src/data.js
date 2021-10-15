@@ -28,6 +28,16 @@ export const projects = [
     image: "./gif-files/simon-game.gif",
     link: "https://fotinh0.github.io/simon-game/",
     github: "https://github.com/fotinh0/simon-game"
+  },
+  {
+    title: "FAQ Accordion Card",
+    subtitle: "Responsive and Interactive FAQ Page",
+    description:
+      "FAQ accordion card challenge from Frontend Mentor. User can hide/show the answer to a question when the question is clicked",
+    skills: "Built with: HTML, CSS, JavaScript",
+    image: "./gif-files/faq-card.gif",
+    link: "https://fotinh0.github.io/simon-game/",
+    github: "https://github.com/fotinh0/simon-game"
   }
 ];
 
