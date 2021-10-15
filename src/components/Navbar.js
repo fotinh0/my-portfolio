@@ -20,8 +20,8 @@ export default function Navbar() {
           </a>
         </nav>
         <div className="inline-flex items-center border-0 py-1 px-3 mt-4 md:mt-0">
-          <a className="mr-5" href="https://github.com/fotinh0" target="_blank"><Icon circular inverted name='github' /></a>
-          <a className="mr-5" href="https://www.linkedin.com/in/foti-ceci/" target="_blank"><Icon circular inverted color='blue' name='linkedin' /></a>
+          <a className="mr-5" href="https://github.com/fotinh0" target="_blank" rel="noopener noreferrer"><Icon circular inverted name='github' /></a>
+          <a className="mr-5" href="https://www.linkedin.com/in/foti-ceci/" target="_blank" rel="noopener noreferrer"><Icon circular inverted color='blue' name='linkedin' /></a>
         </div>
         <a
           href="#contact"
