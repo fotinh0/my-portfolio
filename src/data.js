@@ -23,7 +23,7 @@ export const projects = [
     title: "Simon Game",
     subtitle: "Simon Game using jQuery",
     description:
-      "Test your memory skills playing the Simon Game. Discover the strength of your memory now!",
+      "Test your memory skills with the Simon Game. Discover the strength of your memory by playing now!",
     skills: "Built with: HTML, CSS, jQuery",
     image: "./gif-files/simon-game.gif",
     link: "https://fotinh0.github.io/simon-game/",
