@@ -36,8 +36,8 @@ export const projects = [
       "FAQ accordion card challenge from Frontend Mentor. User can hide/show the answer to a question when the question is clicked",
     skills: "Built with: HTML, CSS, JavaScript",
     image: "./gif-files/faq-card.gif",
-    link: "https://fotinh0.github.io/simon-game/",
-    github: "https://github.com/fotinh0/simon-game"
+    link: "https://frontend-mentor-faq-accordion-card.netlify.app/",
+    github: "https://github.com/fotinh0/frontend-mentor-challenges/tree/master/faq-accordion-card-main"
   }
 ];
 
