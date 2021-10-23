@@ -71,11 +71,11 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
           Let's Get In Touch
           </h2>
-          <p className="leading-relaxed mb-5 text-lg">
+          <p className="leading-relaxed mb-5 sm:text-md text-xl">
           Are you interested in networking and collaborating? Feel free to send me a message!
           </p>
           <div className="relative mb-4">
-            <label htmlFor="name" className="leading-7 text-sm text-gray-400">
+            <label htmlFor="name" className="leading-7 text-lg text-gray-400">
               Name
             </label>
             <input
@@ -87,7 +87,7 @@ export default function Contact() {
             />
           </div>
           <div className="relative mb-4">
-            <label htmlFor="email" className="leading-7 text-sm text-gray-400">
+            <label htmlFor="email" className="leading-7 text-lg text-gray-400">
               Email
             </label>
             <input
@@ -101,7 +101,7 @@ export default function Contact() {
           <div className="relative mb-4">
             <label
               htmlFor="message"
-              className="leading-7 text-sm text-gray-400">
+              className="leading-7 text-lg text-gray-400">
               Message
             </label>
             <textarea
