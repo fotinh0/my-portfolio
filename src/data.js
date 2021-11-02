@@ -1,12 +1,22 @@
 export const projects = [
   {
+    title: "PCI Media Website",
+    subtitle: "Company Website using WordPress",
+    description:
+      "Maintained PCI Media's multi-page website as an intern using WordPress with the Divi theme. Increased traffic using SEO techniques and Google Analytics",
+    skills: "Built with: WordPress, HTML, CSS",
+    image: "./gif-files/pcimedia.gif",
+    link: "https://www.pcimedia.org/",
+    github: ""
+  },
+  {
     title: "Keeper App",
     subtitle: "React Clone of Google Keep",
     description:
-      "Keep track of your notes and your todo's using the Keeper App. Inspired by the Google Keep application.",
+      "Keep track of your notes and your to-do's using the Keeper App. Inspired by the Google Keep application.",
     skills: "Built with: React, Material UI",
     image: "./gif-files/keeper-app.gif",
-    link: "https://keeper-app-fc.netlify.app/?title=gfh&content=hjk",
+    link: "https://keeper-app-fc.netlify.app/",
     github: "https://github.com/fotinh0/keeper-app"
   },
   {
@@ -43,7 +53,7 @@ export const projects = [
     title: "Markdown Previewer App",
     subtitle: "Responsive Markdown Previewer using Marked Library",
     description:
-      "Markdown Previewer App allows you to enter Github flavored markdown into the editor. Text is rendered as HTML as you type. Try it out for yourself now!",
+      "Markdown Previewer App allows you to enter Github flavored markdown into the editor. Text is rendered in HTML as you type. Try it out for yourself now!",
     skills: "Built with: React, CSS",
     image: "./gif-files/markdown-preview.gif",
     link: "markdown-previewer-fc.netlify.app/",

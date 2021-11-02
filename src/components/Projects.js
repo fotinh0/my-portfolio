@@ -44,7 +44,9 @@ export default function Projects() {
               </div>
               <div className="relative flex-wrap m-5">
                 <a className="bg-transparent hover:bg-green-500 text-white font-semibold hover:text-white py-2 px-4 border border-green-500 hover:border-transparent rounded mr-5" target="_blank" href={project.link}> Live Site</a>
-                <a className="bg-transparent hover:bg-green-500 text-white font-semibold hover:text-white py-2 px-4 border border-green-500 hover:border-transparent rounded" target="_blank" href={project.github}>GitHub</a>
+                {project.github && (
+                  <a className="bg-transparent hover:bg-green-500 text-white font-semibold hover:text-white py-2 px-4 border border-green-500 hover:border-transparent rounded" target="_blank" href={project.github}>GitHub</a>
+                )}
               </div>
             </a>
           ))}
