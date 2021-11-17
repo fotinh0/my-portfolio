@@ -7,11 +7,13 @@ export default function Navbar() {
     <header className="bg-gray-800 md:sticky top-0 z-10">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium mb-4 md:mb-0">
+          
           {/* Logo */}
           <a href="#about" className="ml-3 text-xl text-green-500">
             Foti Ceci
           </a>
         </a>
+
         {/* Navbar Links */}
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
           <a href="#projects" className="mr-5 hover:text-white text-gray-400">
@@ -25,6 +27,8 @@ export default function Navbar() {
           <a className="mr-5" href="https://github.com/fotinh0" target="_blank" rel="noopener noreferrer"><Icon circular inverted name='github' /></a>
           <a className="mr-5" href="https://www.linkedin.com/in/foti-ceci/" target="_blank" rel="noopener noreferrer"><Icon circular inverted color='blue' name='linkedin' /></a>
         </div>
+        
+        {/* Hire Me Button */}
         <a
           href="#contact"
           className="inline-flex items-center text-base text-gray-400 border-0 py-1 px-3 focus:outline-none hover:bg-green-500 hover:text-white rounded mt-4 md:mt-0">

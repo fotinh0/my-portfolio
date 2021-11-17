@@ -1,3 +1,4 @@
+// Projects Data
 export const projects = [
   {
     title: "PCI Media Website",
@@ -62,6 +63,7 @@ export const projects = [
   
 ];
 
+// Skills Data
 export const skills = [
   "HTML",
   "CSS / Bootstrap",
