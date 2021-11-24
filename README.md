@@ -1,6 +1,6 @@
 # Foti Ceci Portfolio
 
-This is the source to my personal portfolio.
+This is the source code to my personal portfolio.
 Visit at: [www.foticeci.com](https://www.foticeci.com) 
 
 <!-- 
