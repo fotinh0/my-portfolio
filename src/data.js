@@ -1,6 +1,16 @@
 // Projects Data
 export const projects = [
   {
+    title: "FA Euro New York",
+    subtitle: "FA Euro Website using WIX",
+    description:
+      "Maintain and manage FA Euro's multi-page website using WIX. Responsible for updating club information and uploading new blogs and announcements. ",
+    skills: "Built with: WIX",
+    image: "./gif-files/faeuro.gif",
+    link: "https://www.faeuro.com/",
+    github: ""
+  },
+  {
     title: "PCI Media Website",
     subtitle: "Company Website using WordPress",
     description:
